@@ -11,6 +11,6 @@ void print(T x) {
 
 int main() {
 
-	print("Hello Git and GitHub");
+	print("Hello Git and GitHub no. 2");
 
 }
